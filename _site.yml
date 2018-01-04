@@ -2,7 +2,7 @@
 navbar:
   left:
     - text: "sunny is cute"
-      href: https://www.instagram.com/sunnifordjune/
+      href: index.html
     - text: "Fun Pages"
       menu:
         - text: "Demo 1"
