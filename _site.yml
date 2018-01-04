@@ -1,0 +1,19 @@
+name: "Sunny's Playground"
+output_dir: "."
+navbar:
+title: "My Important Site"
+left:
+    - text: "Sunniford June is cute"
+      icon: fa-database
+      href: https://www.instagram.com/sunnifordjune/
+      
+right:
+    - text: "She's really cute"
+    icon: fa-info-circle
+    href: page1.html
+
+output:
+    html_document:
+    theme: yeti
+        highlight: tango
+        
